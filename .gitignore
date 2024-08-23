@@ -1,2 +1,5 @@
 # entornos virtuales
 env
+
+# global
+__pycache__
